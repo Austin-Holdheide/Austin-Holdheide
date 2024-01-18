@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [nothing rn](https://github.com/Austin-Holdheide/)
 
-- 📝 I regularly write articles on [fancraft.dev](fancraft.dev)
+- 📝 I regularly write articles on [fancraft.dev](https://fancraft.dev)
 
 - 📫 How to reach me **austin@fancraft.dev**
 
