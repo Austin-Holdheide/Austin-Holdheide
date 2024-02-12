@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Holdheide</h1>
-<h3 align="center">A newwer person to coding and desned to make the most insecure and eaisy to break stuff</h3>
+<h3 align="center">A newwer person to coding and destined to make the most insecure and easy to break stuff</h3>
 
 - 🔭 I’m currently working on [Android Streamer](https://github.com/Austin-Holdheide/android-streamer)
 
