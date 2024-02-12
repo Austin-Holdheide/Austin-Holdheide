@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Austin Holdheide</h1>
 <h3 align="center">A newwer person to coding and desned to make the most insecure and eaisy to break stuff</h3>
 
-- 🔭 I’m currently working on [Android Streamer](https://github.com/Austin-Holdheide/android-streamer))
+- 🔭 I’m currently working on [Android Streamer](https://github.com/Austin-Holdheide/android-streamer)
 
 - 🌱 I’m currently learning **html, css, js, php, and python**
 
 - 👯 I’m looking to collaborate on [nothing rn](https://github.com/Austin-Holdheide/)
 
-- 🤝 I’m looking for help with [Android Streamer](https://github.com/Austin-Holdheide/android-streamer))
+- 🤝 I’m looking for help with [Android Streamer](https://github.com/Austin-Holdheide/android-streamer)
 
 - 📝 I regularly write articles on [fancraft.dev](https://fancraft.dev)
 
